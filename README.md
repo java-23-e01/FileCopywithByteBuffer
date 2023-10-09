@@ -1,4 +1,4 @@
-**Time Estimate:** 20 minutes
+**Time Estimate:** 30 minutes
 
 **Description:** Write a Java program that reads data from one file using `FileChannel` and `ByteBuffer`, and then writes the data to another file. This exercise simulates a file copying operation.
 
